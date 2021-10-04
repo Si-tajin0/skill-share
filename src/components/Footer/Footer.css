@@ -1,0 +1,29 @@
+.footer-ul {
+    list-style: none;
+}
+.footer-ul li {
+    padding-right: 10px;
+    border-right: 1px solid rgb(63, 62, 62);
+    padding-left: 10px;
+    cursor: pointer;
+    color: lightgray;
+}
+.footer-ul li:hover{
+    color: white;
+}
+.footer-ul li:last-child {
+    border:none;
+}
+.social-icon {
+    justify-content: center;
+    list-style: none;
+    justify-content: space-evenly;
+    font-size: 30px;
+    cursor: pointer;
+    transition: 0.5s all ease-in-out;
+}
+.social-icon li:hover {
+    color: #a51c30;
+    transform: scale(1.5);
+    transition: 0.5s all ease-in-out;
+}

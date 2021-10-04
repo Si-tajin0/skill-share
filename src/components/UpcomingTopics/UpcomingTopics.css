@@ -1,0 +1,36 @@
+.upcoming-topics{
+    background-color:rgb(253, 253, 234);
+}
+.topics{
+    list-style: none;
+    padding: 50px 0;
+}
+.topic-tag {
+    border-radius: 18px;
+    box-shadow: 0 2px 6px 0 rgb(94 94 94 / 53%);
+    background-color: #f8f8f8;
+    display: inline-block;
+    margin: 5px 10px 10px 0;
+    padding: 5px 10px;
+    width: inherit;
+    color: #a51c30;
+    cursor: pointer;
+}
+.topic-tag:hover {
+    text-decoration: underline;
+}
+.subscribe {
+    background-color: #a51c30;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 300px;
+}
+.subscribe h1 {
+    color: white;
+    font-size: 60px;
+}
+.subscribe-btn {
+    display: flex;
+    justify-content: center;
+}

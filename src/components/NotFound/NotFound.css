@@ -1,0 +1,11 @@
+.not-found{
+    margin: 0;
+    padding: 0;
+}
+.not-found h1{
+    color: #a51c30
+}
+.not-found span {
+    color: #a51c30;
+    font-weight: bold;
+}

@@ -1,0 +1,54 @@
+[
+  {
+    "id": 11,
+    "title": "Data Visualization: Communicating Data and Complex Ideas Visually",
+    "description": "This program combines the science of data visualization with the art of graphic design to help you communicate complex information more accurately and effectively.",
+    "url": "https://i.ibb.co/Ryvnmrn/campaign-creators-pype-CEa-Je-ZY-unsplash-1.jpg",
+    "category": "Data Science",
+    "language": "English",
+    "duration": "12 weeks long",
+    "time": "6-9 hours per week",
+    "difficulty": "Introductory",
+    "price": "Free",
+    "available": "AVAILABLE NOW"
+  },
+  {
+    "id": 12,
+    "title": "Data Science: Machine Learning",
+    "description": "Build a movie recommendation system and learn the science behind one of the most popular and successful data science techniques.With examples ranging from medical testing to sports prediction, you will gain a strong foundation for the study of statistical inference, stochastic processes",
+    "url": "https://i.ibb.co/1mMgPz2/building-1989816.jpg",
+    "category": "Computer Science",
+    "language": "English",
+    "duration": "8 weeks long",
+    "time": "2-4 hours per week",
+    "difficulty": "Introductory",
+    "price": "$99",
+    "available": "AVAILABLE NOW"
+  },
+  {
+    "id": 13,
+    "title": "CS50's Computer Science for Business Professionals",
+    "description": "This is CS50’s introduction to computer science for business professionals.",
+    "url": "https://i.ibb.co/KqCPrMf/Business-resized.jpg",
+    "category": "PROGRAMMING",
+    "language": "English",
+    "duration": "6 weeks long",
+    "time": "6-9 hours per week",
+    "difficulty": "Introductory",
+    "price": "$199",
+    "available": "AVAILABLE NOW"
+  },
+  {
+    "id": 14,
+    "title": "Introduction to Probability (on edX)",
+    "description": "Learn about the development of 2D and 3D interactive games in this hands-on course, as you explore the design of games such as...",
+    "url": "https://i.ibb.co/2kWY0Pz/Screen-Shot-2018-07-16-at-3-16-24-PM.png",
+    "category": "Mathematics",
+    "language": "English",
+    "duration": "10 weeks long",
+    "time": "5-10 hours per week",
+    "difficulty": "beginner",
+    "price": "$139",
+    "available": "AVAILABLE NOW"
+  }
+]
